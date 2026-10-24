@@ -1,0 +1,42 @@
+Text search over the pinned sources, comments included; proves neither a dependency on the collector nor its absence (SPEC 14.2).
+
+# Collector components (curated list; files, lines)
+compiler-coupled                3 files    9182 lines
+compiler-heap-allocation       14 files    6115 lines
+compiler-pointer-maps           7 files    5060 lines
+compiler-write-barrier          2 files    1062 lines
+gc-metadata                     4 files    4232 lines
+linker-pointer-maps             4 files    5727 lines
+runtime-barrier-asm            11 files   12159 lines
+runtime-collector              35 files   19458 lines
+runtime-coupled                15 files   23845 lines
+runtime-finalization            2 files    1420 lines
+
+# Uses in fyne: non-std dependencies of cmd/fyne_demo (packages, occurrences; targets: darwin/arm64 linux/amd64 linux/arm64 windows/amd64 android/arm64 ios/arm64 js/wasm)
+assembly-files                  3 packages       6 occurrences
+cgo-files                      13 packages      66 occurrences
+gc-control                      1 packages       2 occurrences
+imports-reflect                13 packages      13 occurrences
+imports-runtime                28 packages      28 occurrences
+imports-unsafe                 19 packages      19 occurrences
+keepalive                       2 packages       7 occurrences
+linkname                        2 packages      12 occurrences
+native-files                   11 packages      29 occurrences
+sync-pool                       4 packages      10 occurrences
+
+# Uses in std: standard library (packages, occurrences; targets: darwin/arm64 linux/amd64 linux/arm64 windows/amd64 android/arm64 ios/arm64 js/wasm)
+assembly-files                 43 packages     139 occurrences
+cgo-files                       8 packages      15 occurrences
+finalizer-cleanup               9 packages      21 occurrences
+gc-control                      5 packages      10 occurrences
+imports-reflect                30 packages      30 occurrences
+imports-runtime                66 packages      66 occurrences
+imports-unsafe                112 packages     112 occurrences
+keepalive                      10 packages     101 occurrences
+linkname                       64 packages     760 occurrences
+native-files                    1 packages      14 occurrences
+sync-pool                      25 packages      70 occurrences
+weak-reference                  4 packages      18 occurrences
+
+# Uses in tac: packages of cmd/tac (packages, occurrences; targets: darwin/arm64 linux/amd64 linux/arm64 windows/amd64 android/arm64 ios/arm64 js/wasm)
+no occurrence of the counted categories; this does not show independence from the collector

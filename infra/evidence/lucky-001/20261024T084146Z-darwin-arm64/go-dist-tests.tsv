@@ -1,0 +1,633 @@
+archive/tar	not-run	outside the go-tests.txt selection
+archive/zip	not-run	outside the go-tests.txt selection
+bufio	not-run	outside the go-tests.txt selection
+bytes	not-run	outside the go-tests.txt selection
+cmp	not-run	outside the go-tests.txt selection
+compress/bzip2	not-run	outside the go-tests.txt selection
+compress/flate	not-run	outside the go-tests.txt selection
+compress/gzip	not-run	outside the go-tests.txt selection
+compress/lzw	not-run	outside the go-tests.txt selection
+compress/zlib	not-run	outside the go-tests.txt selection
+container/heap	not-run	outside the go-tests.txt selection
+container/list	not-run	outside the go-tests.txt selection
+container/ring	not-run	outside the go-tests.txt selection
+context	not-run	outside the go-tests.txt selection
+crypto	not-run	outside the go-tests.txt selection
+crypto/aes	not-run	outside the go-tests.txt selection
+crypto/cipher	not-run	outside the go-tests.txt selection
+crypto/des	not-run	outside the go-tests.txt selection
+crypto/dsa	not-run	outside the go-tests.txt selection
+crypto/ecdh	not-run	outside the go-tests.txt selection
+crypto/ecdsa	not-run	outside the go-tests.txt selection
+crypto/ed25519	not-run	outside the go-tests.txt selection
+crypto/elliptic	not-run	outside the go-tests.txt selection
+crypto/fips140	not-run	outside the go-tests.txt selection
+crypto/hkdf	not-run	outside the go-tests.txt selection
+crypto/hmac	not-run	outside the go-tests.txt selection
+crypto/hpke	not-run	outside the go-tests.txt selection
+crypto/internal/boring	not-run	outside the go-tests.txt selection
+crypto/internal/boring/bbig	not-run	outside the go-tests.txt selection
+crypto/internal/boring/bcache	not-run	outside the go-tests.txt selection
+crypto/internal/boring/sig	not-run	outside the go-tests.txt selection
+crypto/internal/constanttime	not-run	outside the go-tests.txt selection
+crypto/internal/cryptotest	not-run	outside the go-tests.txt selection
+crypto/internal/cryptotest/wycheproof	not-run	outside the go-tests.txt selection
+crypto/internal/cryptotest/x509limbo	not-run	outside the go-tests.txt selection
+crypto/internal/entropy	not-run	outside the go-tests.txt selection
+crypto/internal/entropy/v1.0.0	not-run	outside the go-tests.txt selection
+crypto/internal/fips140	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/aes	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/aes/gcm	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/alias	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/bigmod	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/check	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/check/checktest	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/drbg	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/ecdh	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/ecdsa	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/ed25519	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/edwards25519	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/edwards25519/field	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/hkdf	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/hmac	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/mldsa	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/mlkem	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/nistec	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/nistec/fiat	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/pbkdf2	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/rsa	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/sha256	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/sha3	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/sha512	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/ssh	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/subtle	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/tls12	not-run	outside the go-tests.txt selection
+crypto/internal/fips140/tls13	not-run	outside the go-tests.txt selection
+crypto/internal/fips140cache	not-run	outside the go-tests.txt selection
+crypto/internal/fips140deps	not-run	outside the go-tests.txt selection
+crypto/internal/fips140deps/byteorder	not-run	outside the go-tests.txt selection
+crypto/internal/fips140deps/cpu	not-run	outside the go-tests.txt selection
+crypto/internal/fips140deps/godebug	not-run	outside the go-tests.txt selection
+crypto/internal/fips140deps/time	not-run	outside the go-tests.txt selection
+crypto/internal/fips140hash	not-run	outside the go-tests.txt selection
+crypto/internal/fips140only	not-run	outside the go-tests.txt selection
+crypto/internal/fips140test	not-run	outside the go-tests.txt selection
+crypto/internal/impl	not-run	outside the go-tests.txt selection
+crypto/internal/rand	not-run	outside the go-tests.txt selection
+crypto/internal/randutil	not-run	outside the go-tests.txt selection
+crypto/internal/sysrand	not-run	outside the go-tests.txt selection
+crypto/internal/sysrand/internal/seccomp	not-run	outside the go-tests.txt selection
+crypto/md5	not-run	outside the go-tests.txt selection
+crypto/mldsa	not-run	outside the go-tests.txt selection
+crypto/mlkem	not-run	outside the go-tests.txt selection
+crypto/mlkem/mlkemtest	not-run	outside the go-tests.txt selection
+crypto/pbkdf2	not-run	outside the go-tests.txt selection
+crypto/rand	not-run	outside the go-tests.txt selection
+crypto/rc4	not-run	outside the go-tests.txt selection
+crypto/rsa	not-run	outside the go-tests.txt selection
+crypto/sha1	not-run	outside the go-tests.txt selection
+crypto/sha256	not-run	outside the go-tests.txt selection
+crypto/sha3	not-run	outside the go-tests.txt selection
+crypto/sha512	not-run	outside the go-tests.txt selection
+crypto/subtle	not-run	outside the go-tests.txt selection
+crypto/tls	not-run	outside the go-tests.txt selection
+crypto/tls/internal/fips140tls	not-run	outside the go-tests.txt selection
+crypto/x509	not-run	outside the go-tests.txt selection
+crypto/x509/internal/macos	not-run	outside the go-tests.txt selection
+crypto/x509/pkix	not-run	outside the go-tests.txt selection
+database/sql	not-run	outside the go-tests.txt selection
+database/sql/driver	not-run	outside the go-tests.txt selection
+database/sql/internal	not-run	outside the go-tests.txt selection
+debug/buildinfo	not-run	outside the go-tests.txt selection
+debug/dwarf	not-run	outside the go-tests.txt selection
+debug/elf	not-run	outside the go-tests.txt selection
+debug/gosym	not-run	outside the go-tests.txt selection
+debug/macho	not-run	outside the go-tests.txt selection
+debug/pe	not-run	outside the go-tests.txt selection
+debug/plan9obj	not-run	outside the go-tests.txt selection
+embed	not-run	outside the go-tests.txt selection
+embed/internal/embedtest	not-run	outside the go-tests.txt selection
+encoding	not-run	outside the go-tests.txt selection
+encoding/ascii85	not-run	outside the go-tests.txt selection
+encoding/asn1	not-run	outside the go-tests.txt selection
+encoding/base32	not-run	outside the go-tests.txt selection
+encoding/base64	not-run	outside the go-tests.txt selection
+encoding/binary	not-run	outside the go-tests.txt selection
+encoding/csv	not-run	outside the go-tests.txt selection
+encoding/gob	not-run	outside the go-tests.txt selection
+encoding/hex	not-run	outside the go-tests.txt selection
+encoding/json	not-run	outside the go-tests.txt selection
+encoding/json/internal	not-run	outside the go-tests.txt selection
+encoding/json/internal/jsonflags	not-run	outside the go-tests.txt selection
+encoding/json/internal/jsonopts	not-run	outside the go-tests.txt selection
+encoding/json/internal/jsontest	not-run	outside the go-tests.txt selection
+encoding/json/internal/jsonwire	not-run	outside the go-tests.txt selection
+encoding/json/jsontext	not-run	outside the go-tests.txt selection
+encoding/json/v2	not-run	outside the go-tests.txt selection
+encoding/pem	not-run	outside the go-tests.txt selection
+encoding/xml	not-run	outside the go-tests.txt selection
+errors	not-run	outside the go-tests.txt selection
+expvar	not-run	outside the go-tests.txt selection
+flag	not-run	outside the go-tests.txt selection
+fmt	not-run	outside the go-tests.txt selection
+go/ast	not-run	outside the go-tests.txt selection
+go/build	not-run	outside the go-tests.txt selection
+go/build/constraint	not-run	outside the go-tests.txt selection
+go/constant	not-run	outside the go-tests.txt selection
+go/doc	not-run	outside the go-tests.txt selection
+go/doc/comment	not-run	outside the go-tests.txt selection
+go/format	not-run	outside the go-tests.txt selection
+go/importer	not-run	outside the go-tests.txt selection
+go/internal/gccgoimporter	not-run	outside the go-tests.txt selection
+go/internal/gcimporter	not-run	outside the go-tests.txt selection
+go/internal/srcimporter	not-run	outside the go-tests.txt selection
+go/parser	not-run	outside the go-tests.txt selection
+go/printer	not-run	outside the go-tests.txt selection
+go/scanner	not-run	outside the go-tests.txt selection
+go/token	not-run	outside the go-tests.txt selection
+go/types	not-run	outside the go-tests.txt selection
+go/version	not-run	outside the go-tests.txt selection
+hash	not-run	outside the go-tests.txt selection
+hash/adler32	not-run	outside the go-tests.txt selection
+hash/crc32	not-run	outside the go-tests.txt selection
+hash/crc64	not-run	outside the go-tests.txt selection
+hash/fnv	not-run	outside the go-tests.txt selection
+hash/maphash	not-run	outside the go-tests.txt selection
+html	not-run	outside the go-tests.txt selection
+html/template	not-run	outside the go-tests.txt selection
+image	not-run	outside the go-tests.txt selection
+image/color	not-run	outside the go-tests.txt selection
+image/color/palette	not-run	outside the go-tests.txt selection
+image/draw	not-run	outside the go-tests.txt selection
+image/gif	not-run	outside the go-tests.txt selection
+image/internal/imageutil	not-run	outside the go-tests.txt selection
+image/jpeg	not-run	outside the go-tests.txt selection
+image/png	not-run	outside the go-tests.txt selection
+index/suffixarray	not-run	outside the go-tests.txt selection
+internal/abi	not-run	outside the go-tests.txt selection
+internal/asan	not-run	outside the go-tests.txt selection
+internal/bisect	not-run	outside the go-tests.txt selection
+internal/buildcfg	not-run	outside the go-tests.txt selection
+internal/bytealg	not-run	outside the go-tests.txt selection
+internal/byteorder	not-run	outside the go-tests.txt selection
+internal/cfg	not-run	outside the go-tests.txt selection
+internal/chacha8rand	not-run	outside the go-tests.txt selection
+internal/copyright	not-run	outside the go-tests.txt selection
+internal/coverage	not-run	outside the go-tests.txt selection
+internal/coverage/calloc	not-run	outside the go-tests.txt selection
+internal/coverage/cfile	not-run	outside the go-tests.txt selection
+internal/coverage/cformat	not-run	outside the go-tests.txt selection
+internal/coverage/cmerge	not-run	outside the go-tests.txt selection
+internal/coverage/decodecounter	not-run	outside the go-tests.txt selection
+internal/coverage/decodemeta	not-run	outside the go-tests.txt selection
+internal/coverage/encodecounter	not-run	outside the go-tests.txt selection
+internal/coverage/encodemeta	not-run	outside the go-tests.txt selection
+internal/coverage/pods	not-run	outside the go-tests.txt selection
+internal/coverage/rtcov	not-run	outside the go-tests.txt selection
+internal/coverage/slicereader	not-run	outside the go-tests.txt selection
+internal/coverage/slicewriter	not-run	outside the go-tests.txt selection
+internal/coverage/stringtab	not-run	outside the go-tests.txt selection
+internal/coverage/test	not-run	outside the go-tests.txt selection
+internal/coverage/uleb128	not-run	outside the go-tests.txt selection
+internal/cpu	not-run	outside the go-tests.txt selection
+internal/dag	not-run	outside the go-tests.txt selection
+internal/diff	not-run	outside the go-tests.txt selection
+internal/exportdata	not-run	outside the go-tests.txt selection
+internal/filepathlite	not-run	outside the go-tests.txt selection
+internal/fmtsort	not-run	outside the go-tests.txt selection
+internal/fuzz	not-run	outside the go-tests.txt selection
+internal/gate	not-run	outside the go-tests.txt selection
+internal/goarch	not-run	outside the go-tests.txt selection
+internal/godebug	not-run	outside the go-tests.txt selection
+internal/godebugs	not-run	outside the go-tests.txt selection
+internal/goexperiment	not-run	outside the go-tests.txt selection
+internal/goos	not-run	outside the go-tests.txt selection
+internal/goroot	not-run	outside the go-tests.txt selection
+internal/gover	not-run	outside the go-tests.txt selection
+internal/goversion	not-run	outside the go-tests.txt selection
+internal/lazyregexp	not-run	outside the go-tests.txt selection
+internal/lazytemplate	not-run	outside the go-tests.txt selection
+internal/msan	not-run	outside the go-tests.txt selection
+internal/nettest	not-run	outside the go-tests.txt selection
+internal/nettrace	not-run	outside the go-tests.txt selection
+internal/obscuretestdata	not-run	outside the go-tests.txt selection
+internal/oserror	not-run	outside the go-tests.txt selection
+internal/pkgbits	not-run	outside the go-tests.txt selection
+internal/platform	not-run	outside the go-tests.txt selection
+internal/poll	not-run	outside the go-tests.txt selection
+internal/profile	not-run	outside the go-tests.txt selection
+internal/profilerecord	not-run	outside the go-tests.txt selection
+internal/race	not-run	outside the go-tests.txt selection
+internal/reflectlite	not-run	outside the go-tests.txt selection
+internal/routebsd	not-run	outside the go-tests.txt selection
+internal/runtime/atomic	partial	go test -short, without dist flags; see go-tests.tsv
+internal/runtime/cgobench	no-tests	go test -short, without dist flags; see go-tests.tsv
+internal/runtime/cgroup	pass	go test -short, without dist flags; see go-tests.tsv
+internal/runtime/exithook	no-tests	go test -short, without dist flags; see go-tests.tsv
+internal/runtime/gc	no-tests	go test -short, without dist flags; see go-tests.tsv
+internal/runtime/gc/internal/gen	no-tests	go test -short, without dist flags; see go-tests.tsv
+internal/runtime/gc/scan	pass	go test -short, without dist flags; see go-tests.tsv
+internal/runtime/maps	pass	go test -short, without dist flags; see go-tests.tsv
+internal/runtime/math	pass	go test -short, without dist flags; see go-tests.tsv
+internal/runtime/pprof/label	no-tests	go test -short, without dist flags; see go-tests.tsv
+internal/runtime/sys	pass	go test -short, without dist flags; see go-tests.tsv
+internal/runtime/wasitest	not-run	go test -short, without dist flags; see go-tests.tsv
+internal/saferio	not-run	outside the go-tests.txt selection
+internal/singleflight	not-run	outside the go-tests.txt selection
+internal/strconv	not-run	outside the go-tests.txt selection
+internal/stringslite	not-run	outside the go-tests.txt selection
+internal/sync	not-run	outside the go-tests.txt selection
+internal/synctest	not-run	outside the go-tests.txt selection
+internal/syscall/execenv	not-run	outside the go-tests.txt selection
+internal/syscall/unix	not-run	outside the go-tests.txt selection
+internal/sysinfo	not-run	outside the go-tests.txt selection
+internal/syslist	not-run	outside the go-tests.txt selection
+internal/testenv	not-run	outside the go-tests.txt selection
+internal/testhash	not-run	outside the go-tests.txt selection
+internal/testlog	not-run	outside the go-tests.txt selection
+internal/testpty	not-run	outside the go-tests.txt selection
+internal/trace	not-run	outside the go-tests.txt selection
+internal/trace/internal/testgen	not-run	outside the go-tests.txt selection
+internal/trace/internal/tracev1	not-run	outside the go-tests.txt selection
+internal/trace/raw	not-run	outside the go-tests.txt selection
+internal/trace/testtrace	not-run	outside the go-tests.txt selection
+internal/trace/tracev2	not-run	outside the go-tests.txt selection
+internal/trace/traceviewer	not-run	outside the go-tests.txt selection
+internal/trace/traceviewer/format	not-run	outside the go-tests.txt selection
+internal/trace/version	not-run	outside the go-tests.txt selection
+internal/txtar	not-run	outside the go-tests.txt selection
+internal/types/errors	not-run	outside the go-tests.txt selection
+internal/unsafeheader	not-run	outside the go-tests.txt selection
+internal/xcoff	not-run	outside the go-tests.txt selection
+internal/zstd	not-run	outside the go-tests.txt selection
+io	not-run	outside the go-tests.txt selection
+io/fs	not-run	outside the go-tests.txt selection
+io/ioutil	not-run	outside the go-tests.txt selection
+iter	not-run	outside the go-tests.txt selection
+log	not-run	outside the go-tests.txt selection
+log/internal	not-run	outside the go-tests.txt selection
+log/slog	not-run	outside the go-tests.txt selection
+log/slog/internal	not-run	outside the go-tests.txt selection
+log/slog/internal/benchmarks	not-run	outside the go-tests.txt selection
+log/slog/internal/buffer	not-run	outside the go-tests.txt selection
+log/syslog	not-run	outside the go-tests.txt selection
+maps	pass	go test -short, without dist flags; see go-tests.tsv
+math	not-run	outside the go-tests.txt selection
+math/big	not-run	outside the go-tests.txt selection
+math/big/internal/asmgen	not-run	outside the go-tests.txt selection
+math/bits	not-run	outside the go-tests.txt selection
+math/cmplx	not-run	outside the go-tests.txt selection
+math/rand	not-run	outside the go-tests.txt selection
+math/rand/v2	not-run	outside the go-tests.txt selection
+mime	not-run	outside the go-tests.txt selection
+mime/multipart	not-run	outside the go-tests.txt selection
+mime/quotedprintable	not-run	outside the go-tests.txt selection
+net	not-run	outside the go-tests.txt selection
+net/http	not-run	outside the go-tests.txt selection
+net/http/cgi	not-run	outside the go-tests.txt selection
+net/http/cookiejar	not-run	outside the go-tests.txt selection
+net/http/fcgi	not-run	outside the go-tests.txt selection
+net/http/httptest	not-run	outside the go-tests.txt selection
+net/http/httptrace	not-run	outside the go-tests.txt selection
+net/http/httputil	not-run	outside the go-tests.txt selection
+net/http/internal	not-run	outside the go-tests.txt selection
+net/http/internal/ascii	not-run	outside the go-tests.txt selection
+net/http/internal/http2	not-run	outside the go-tests.txt selection
+net/http/internal/httpcommon	not-run	outside the go-tests.txt selection
+net/http/internal/httpsfv	not-run	outside the go-tests.txt selection
+net/http/internal/testcert	not-run	outside the go-tests.txt selection
+net/http/pprof	not-run	outside the go-tests.txt selection
+net/internal/cgotest	not-run	outside the go-tests.txt selection
+net/internal/socktest	not-run	outside the go-tests.txt selection
+net/mail	not-run	outside the go-tests.txt selection
+net/netip	not-run	outside the go-tests.txt selection
+net/rpc	not-run	outside the go-tests.txt selection
+net/rpc/jsonrpc	not-run	outside the go-tests.txt selection
+net/smtp	not-run	outside the go-tests.txt selection
+net/textproto	not-run	outside the go-tests.txt selection
+net/url	not-run	outside the go-tests.txt selection
+os	not-run	outside the go-tests.txt selection
+os/exec	not-run	outside the go-tests.txt selection
+os/exec/internal/fdtest	not-run	outside the go-tests.txt selection
+os/signal	not-run	outside the go-tests.txt selection
+os/user	not-run	outside the go-tests.txt selection
+path	not-run	outside the go-tests.txt selection
+path/filepath	not-run	outside the go-tests.txt selection
+plugin	not-run	outside the go-tests.txt selection
+reflect	partial	go test -short, without dist flags; see go-tests.tsv
+reflect/internal/example1	not-run	outside the go-tests.txt selection
+reflect/internal/example2	not-run	outside the go-tests.txt selection
+regexp	not-run	outside the go-tests.txt selection
+regexp/syntax	not-run	outside the go-tests.txt selection
+runtime	partial	go test -short, without dist flags; see go-tests.tsv
+runtime/cgo	not-run	outside the go-tests.txt selection
+runtime/coverage	not-run	outside the go-tests.txt selection
+runtime/debug	not-run	outside the go-tests.txt selection
+runtime/metrics	not-run	outside the go-tests.txt selection
+runtime/pprof	not-run	outside the go-tests.txt selection
+runtime/race	not-run	outside the go-tests.txt selection
+runtime/trace	not-run	outside the go-tests.txt selection
+slices	pass	go test -short, without dist flags; see go-tests.tsv
+sort	not-run	outside the go-tests.txt selection
+strconv	not-run	outside the go-tests.txt selection
+strings	pass	go test -short, without dist flags; see go-tests.tsv
+structs	not-run	outside the go-tests.txt selection
+sync	pass	go test -short, without dist flags; see go-tests.tsv
+sync/atomic	not-run	outside the go-tests.txt selection
+syscall	not-run	outside the go-tests.txt selection
+testing	not-run	outside the go-tests.txt selection
+testing/cryptotest	not-run	outside the go-tests.txt selection
+testing/fstest	not-run	outside the go-tests.txt selection
+testing/internal/testdeps	not-run	outside the go-tests.txt selection
+testing/iotest	not-run	outside the go-tests.txt selection
+testing/quick	not-run	outside the go-tests.txt selection
+testing/slogtest	not-run	outside the go-tests.txt selection
+testing/synctest	not-run	outside the go-tests.txt selection
+text/scanner	not-run	outside the go-tests.txt selection
+text/tabwriter	not-run	outside the go-tests.txt selection
+text/template	not-run	outside the go-tests.txt selection
+text/template/parse	not-run	outside the go-tests.txt selection
+time	not-run	outside the go-tests.txt selection
+time/tzdata	not-run	outside the go-tests.txt selection
+unicode	not-run	outside the go-tests.txt selection
+unicode/utf16	not-run	outside the go-tests.txt selection
+unicode/utf8	not-run	outside the go-tests.txt selection
+unique	pass	go test -short, without dist flags; see go-tests.tsv
+unsafe	not-run	outside the go-tests.txt selection
+uuid	not-run	outside the go-tests.txt selection
+weak	partial	go test -short, without dist flags; see go-tests.tsv
+cmd/addr2line	not-run	outside the go-tests.txt selection
+cmd/api	not-run	outside the go-tests.txt selection
+cmd/asm	not-run	outside the go-tests.txt selection
+cmd/asm/internal/arch	not-run	outside the go-tests.txt selection
+cmd/asm/internal/asm	not-run	outside the go-tests.txt selection
+cmd/asm/internal/flags	not-run	outside the go-tests.txt selection
+cmd/asm/internal/lex	not-run	outside the go-tests.txt selection
+cmd/buildid	not-run	outside the go-tests.txt selection
+cmd/cgo	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/cgotest	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/swig	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test	partial	go test -short, without dist flags; see go-tests.tsv
+cmd/cgo/internal/test/gcc68255	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue23555a	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue23555b	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue24161arg	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue24161e0	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue24161e1	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue24161e2	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue24161res	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue26213	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue26430	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue26743	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue27054	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue27340	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue29563	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue30527	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue41761a	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue43639	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue52611a	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue52611b	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue76861	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue8756	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue8828	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue9026	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue9510a	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/test/issue9510b	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testcarchive	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testcshared	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testerrors	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testfortran	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testgodefs	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testlife	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testnocgo	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testout	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testplugin	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testsanitizers	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testshared	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testso	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/teststdio	not-run	outside the go-tests.txt selection
+cmd/cgo/internal/testtls	not-run	outside the go-tests.txt selection
+cmd/compile	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/abi	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/abt	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/amd64	partial	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/arm	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/arm64	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/base	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/bitvec	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/bloop	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/compare	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/coverage	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/deadlocals	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/devirtualize	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/dwarfgen	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/escape	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/gc	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/importer	partial	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/inline	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/inline/inlheur	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/inline/interleaved	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/ir	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/liveness	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/logopt	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/loong64	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/loopvar	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/midway	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/mips	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/mips64	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/noder	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/objw	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/pgoir	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/pkginit	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/ppc64	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/rangefunc	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/reflectdata	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/riscv64	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/rttype	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/s390x	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/slice	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/ssa	partial	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/ssagen	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/staticdata	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/staticinit	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/syntax	partial	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/test	partial	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/typebits	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/typecheck	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/types	pass	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/types2	partial	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/walk	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/wasm	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/compile/internal/x86	no-tests	go test -short, without dist flags; see go-tests.tsv
+cmd/covdata	not-run	outside the go-tests.txt selection
+cmd/cover	not-run	outside the go-tests.txt selection
+cmd/dist	not-run	outside the go-tests.txt selection
+cmd/distpack	not-run	outside the go-tests.txt selection
+cmd/fix	not-run	outside the go-tests.txt selection
+cmd/go	not-run	outside the go-tests.txt selection
+cmd/go/internal/auth	not-run	outside the go-tests.txt selection
+cmd/go/internal/base	not-run	outside the go-tests.txt selection
+cmd/go/internal/bug	not-run	outside the go-tests.txt selection
+cmd/go/internal/cache	not-run	outside the go-tests.txt selection
+cmd/go/internal/cacheprog	not-run	outside the go-tests.txt selection
+cmd/go/internal/cfg	not-run	outside the go-tests.txt selection
+cmd/go/internal/clean	not-run	outside the go-tests.txt selection
+cmd/go/internal/cmdflag	not-run	outside the go-tests.txt selection
+cmd/go/internal/doc	not-run	outside the go-tests.txt selection
+cmd/go/internal/envcmd	not-run	outside the go-tests.txt selection
+cmd/go/internal/fips140	not-run	outside the go-tests.txt selection
+cmd/go/internal/fmtcmd	not-run	outside the go-tests.txt selection
+cmd/go/internal/fsys	not-run	outside the go-tests.txt selection
+cmd/go/internal/generate	not-run	outside the go-tests.txt selection
+cmd/go/internal/gover	not-run	outside the go-tests.txt selection
+cmd/go/internal/help	not-run	outside the go-tests.txt selection
+cmd/go/internal/imports	not-run	outside the go-tests.txt selection
+cmd/go/internal/list	not-run	outside the go-tests.txt selection
+cmd/go/internal/load	not-run	outside the go-tests.txt selection
+cmd/go/internal/lockedfile	not-run	outside the go-tests.txt selection
+cmd/go/internal/lockedfile/internal/filelock	not-run	outside the go-tests.txt selection
+cmd/go/internal/mmap	not-run	outside the go-tests.txt selection
+cmd/go/internal/modcmd	not-run	outside the go-tests.txt selection
+cmd/go/internal/modfetch	not-run	outside the go-tests.txt selection
+cmd/go/internal/modfetch/codehost	not-run	outside the go-tests.txt selection
+cmd/go/internal/modfetch/zip_sum_test	not-run	outside the go-tests.txt selection
+cmd/go/internal/modget	not-run	outside the go-tests.txt selection
+cmd/go/internal/modindex	not-run	outside the go-tests.txt selection
+cmd/go/internal/modinfo	not-run	outside the go-tests.txt selection
+cmd/go/internal/modload	not-run	outside the go-tests.txt selection
+cmd/go/internal/mvs	not-run	outside the go-tests.txt selection
+cmd/go/internal/run	not-run	outside the go-tests.txt selection
+cmd/go/internal/search	not-run	outside the go-tests.txt selection
+cmd/go/internal/str	not-run	outside the go-tests.txt selection
+cmd/go/internal/telemetrycmd	not-run	outside the go-tests.txt selection
+cmd/go/internal/telemetrystats	not-run	outside the go-tests.txt selection
+cmd/go/internal/test	not-run	outside the go-tests.txt selection
+cmd/go/internal/test/internal/genflags	not-run	outside the go-tests.txt selection
+cmd/go/internal/tool	not-run	outside the go-tests.txt selection
+cmd/go/internal/toolchain	not-run	outside the go-tests.txt selection
+cmd/go/internal/trace	not-run	outside the go-tests.txt selection
+cmd/go/internal/vcs	not-run	outside the go-tests.txt selection
+cmd/go/internal/vcweb	not-run	outside the go-tests.txt selection
+cmd/go/internal/vcweb/vcstest	not-run	outside the go-tests.txt selection
+cmd/go/internal/version	not-run	outside the go-tests.txt selection
+cmd/go/internal/verylongtest	not-run	outside the go-tests.txt selection
+cmd/go/internal/vet	not-run	outside the go-tests.txt selection
+cmd/go/internal/web	not-run	outside the go-tests.txt selection
+cmd/go/internal/web/intercept	not-run	outside the go-tests.txt selection
+cmd/go/internal/work	not-run	outside the go-tests.txt selection
+cmd/go/internal/workcmd	not-run	outside the go-tests.txt selection
+cmd/gofmt	not-run	outside the go-tests.txt selection
+cmd/internal/archive	not-run	outside the go-tests.txt selection
+cmd/internal/bio	not-run	outside the go-tests.txt selection
+cmd/internal/bootstrap_test	not-run	outside the go-tests.txt selection
+cmd/internal/browser	not-run	outside the go-tests.txt selection
+cmd/internal/buildid	not-run	outside the go-tests.txt selection
+cmd/internal/codesign	not-run	outside the go-tests.txt selection
+cmd/internal/cov	not-run	outside the go-tests.txt selection
+cmd/internal/cov/covcmd	not-run	outside the go-tests.txt selection
+cmd/internal/disasm	not-run	outside the go-tests.txt selection
+cmd/internal/dwarf	not-run	outside the go-tests.txt selection
+cmd/internal/edit	not-run	outside the go-tests.txt selection
+cmd/internal/fuzztest	not-run	outside the go-tests.txt selection
+cmd/internal/gcprog	not-run	outside the go-tests.txt selection
+cmd/internal/goobj	not-run	outside the go-tests.txt selection
+cmd/internal/hash	not-run	outside the go-tests.txt selection
+cmd/internal/macho	not-run	outside the go-tests.txt selection
+cmd/internal/moddeps	not-run	outside the go-tests.txt selection
+cmd/internal/obj	not-run	outside the go-tests.txt selection
+cmd/internal/obj/arm	not-run	outside the go-tests.txt selection
+cmd/internal/obj/arm64	not-run	outside the go-tests.txt selection
+cmd/internal/obj/loong64	not-run	outside the go-tests.txt selection
+cmd/internal/obj/mips	not-run	outside the go-tests.txt selection
+cmd/internal/obj/ppc64	not-run	outside the go-tests.txt selection
+cmd/internal/obj/riscv	not-run	outside the go-tests.txt selection
+cmd/internal/obj/s390x	not-run	outside the go-tests.txt selection
+cmd/internal/obj/wasm	not-run	outside the go-tests.txt selection
+cmd/internal/obj/x86	not-run	outside the go-tests.txt selection
+cmd/internal/objabi	not-run	outside the go-tests.txt selection
+cmd/internal/objfile	not-run	outside the go-tests.txt selection
+cmd/internal/osinfo	not-run	outside the go-tests.txt selection
+cmd/internal/par	not-run	outside the go-tests.txt selection
+cmd/internal/pathcache	not-run	outside the go-tests.txt selection
+cmd/internal/pgo	not-run	outside the go-tests.txt selection
+cmd/internal/pkgpath	not-run	outside the go-tests.txt selection
+cmd/internal/pkgpattern	not-run	outside the go-tests.txt selection
+cmd/internal/quoted	not-run	outside the go-tests.txt selection
+cmd/internal/robustio	not-run	outside the go-tests.txt selection
+cmd/internal/script	not-run	outside the go-tests.txt selection
+cmd/internal/script/scripttest	not-run	outside the go-tests.txt selection
+cmd/internal/src	not-run	outside the go-tests.txt selection
+cmd/internal/sys	not-run	outside the go-tests.txt selection
+cmd/internal/telemetry	not-run	outside the go-tests.txt selection
+cmd/internal/telemetry/counter	not-run	outside the go-tests.txt selection
+cmd/internal/test2json	not-run	outside the go-tests.txt selection
+cmd/link	partial	go test -short, without dist flags; see go-tests.tsv
+cmd/link/internal/amd64	not-run	outside the go-tests.txt selection
+cmd/link/internal/arm	not-run	outside the go-tests.txt selection
+cmd/link/internal/arm64	not-run	outside the go-tests.txt selection
+cmd/link/internal/benchmark	not-run	outside the go-tests.txt selection
+cmd/link/internal/dwtest	not-run	outside the go-tests.txt selection
+cmd/link/internal/ld	not-run	outside the go-tests.txt selection
+cmd/link/internal/loadelf	not-run	outside the go-tests.txt selection
+cmd/link/internal/loader	not-run	outside the go-tests.txt selection
+cmd/link/internal/loadmacho	not-run	outside the go-tests.txt selection
+cmd/link/internal/loadpe	not-run	outside the go-tests.txt selection
+cmd/link/internal/loadxcoff	not-run	outside the go-tests.txt selection
+cmd/link/internal/loong64	not-run	outside the go-tests.txt selection
+cmd/link/internal/mips	not-run	outside the go-tests.txt selection
+cmd/link/internal/mips64	not-run	outside the go-tests.txt selection
+cmd/link/internal/ppc64	not-run	outside the go-tests.txt selection
+cmd/link/internal/riscv64	not-run	outside the go-tests.txt selection
+cmd/link/internal/s390x	not-run	outside the go-tests.txt selection
+cmd/link/internal/sym	not-run	outside the go-tests.txt selection
+cmd/link/internal/wasm	not-run	outside the go-tests.txt selection
+cmd/link/internal/x86	not-run	outside the go-tests.txt selection
+cmd/nm	not-run	outside the go-tests.txt selection
+cmd/objdump	not-run	outside the go-tests.txt selection
+cmd/pack	not-run	outside the go-tests.txt selection
+cmd/pprof	not-run	outside the go-tests.txt selection
+cmd/preprofile	not-run	outside the go-tests.txt selection
+cmd/relnote	not-run	outside the go-tests.txt selection
+cmd/test2json	not-run	outside the go-tests.txt selection
+cmd/trace	not-run	outside the go-tests.txt selection
+cmd/vet	not-run	outside the go-tests.txt selection
+os/user:osusergo	not-run	outside the go-tests.txt selection
+net/http:nethttpomithttp2	not-run	outside the go-tests.txt selection
+crypto/...:purego	not-run	outside the go-tests.txt selection
+crypto/...:gofips140	not-run	outside the go-tests.txt selection
+crypto/...:gofips140-v1.0.0-c2097c7c	not-run	outside the go-tests.txt selection
+crypto/...:gofips140-v1.26.0	not-run	outside the go-tests.txt selection
+crypto/...:gofips140-certified	not-run	outside the go-tests.txt selection
+crypto/...:gofips140-inprocess	not-run	outside the go-tests.txt selection
+crypto/...:gofips140-v1.0.0	not-run	outside the go-tests.txt selection
+encoding/json/...:nojsonv2	not-run	outside the go-tests.txt selection
+runtime/secret/...:runtimesecret	not-run	outside the go-tests.txt selection
+simd:simd	not-run	outside the go-tests.txt selection
+simd/archsimd/...:simd	not-run	outside the go-tests.txt selection
+net:nolibgcc	not-run	outside the go-tests.txt selection
+os/user:nolibgcc	not-run	outside the go-tests.txt selection
+reflect:pie_internal	not-run	dist variant not run
+crypto/internal/fips140test:pie_internal	not-run	outside the go-tests.txt selection
+os/user:pie_internal	not-run	outside the go-tests.txt selection
+crypto/internal/fips140test:exe_external	not-run	outside the go-tests.txt selection
+crypto/internal/fips140test:pie_external	not-run	outside the go-tests.txt selection
+sync:cpu10	not-run	dist variant not run
+cmd/cgo/internal/test:internal	not-run	dist variant not run
+cmd/cgo/internal/test:external	not-run	dist variant not run
+cmd/cgo/internal/test:external-s	not-run	dist variant not run
+cmd/cgo/internal/test:auto-pie	not-run	dist variant not run
+cmd/cgo/internal/test:internal-pie	not-run	dist variant not run
+cmd/relnote:check	not-run	outside the go-tests.txt selection
+cmd/api:check	not-run	outside the go-tests.txt selection
+runtime:cpu1	not-run	dist variant not run
+runtime:cpu2	not-run	dist variant not run
+runtime:cpu4	not-run	dist variant not run
+runtime/race:race	not-run	outside the go-tests.txt selection
+flag:race	not-run	outside the go-tests.txt selection
+net:race	not-run	outside the go-tests.txt selection
+os:race	not-run	outside the go-tests.txt selection
+os/exec:race	not-run	outside the go-tests.txt selection
+encoding/gob:race	not-run	outside the go-tests.txt selection
+flag:race-external	not-run	outside the go-tests.txt selection
+os/exec:race-external	not-run	outside the go-tests.txt selection
+cmd/internal/testdir:0_1	partial	single shard (whole package); go test -short; see go-tests.tsv

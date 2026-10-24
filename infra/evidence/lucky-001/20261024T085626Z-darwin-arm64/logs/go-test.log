@@ -1,0 +1,14 @@
+go test -json -short -count=1 -timeout=60m cmd/internal/testdir cmd/compile/... cmd/link runtime internal/runtime/... reflect weak unique sync maps slices strings cmd/cgo/internal/test
+packages run:
+  35 no-tests
+   1 not-run
+  13 partial
+  26 pass
+dist suite entries: 633
+  35 no-tests	go test -short, without dist flags; see go-tests.tsv
+  10 not-run	dist variant not run
+   1 not-run	go test -short, without dist flags; see go-tests.tsv
+ 548 not-run	outside the go-tests.txt selection
+  12 partial	go test -short, without dist flags; see go-tests.tsv
+   1 partial	single shard (whole package); go test -short; see go-tests.tsv
+  26 pass	go test -short, without dist flags; see go-tests.tsv

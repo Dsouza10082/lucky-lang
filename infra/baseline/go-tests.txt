@@ -1,0 +1,21 @@
+# Go packages run by test-go.sh (go test -short), one pattern per line.
+#
+# A representative selection, not the full suite: it covers what Lucky changes
+# first (compiler, linker, runtime) and the mechanisms that SPEC section 3.3 says
+# to audit first. Each run's go-dist-tests.tsv lists dist's whole suite: entries
+# outside this selection, and dist variants of the selected packages, are marked
+# not-run, with the reason.
+
+cmd/internal/testdir      # the repository's test/ suite: errorcheck, escapes, closures, interfaces, channels
+cmd/compile/...           # compiler frontend, types2, SSA and passes
+cmd/link                  # linker; profile validation (section 4.2) lands here
+runtime                   # GC, scheduler, stacks, finalizers and cleanups: what gets replaced
+internal/runtime/...      # maps, atomics and allocation code used by the runtime
+reflect                   # reflection (section 3.3)
+weak                      # weak references (section 3.3)
+unique                    # canonicalization backed by the GC
+sync                      # synchronization primitives
+maps                      # maps (section 3.3)
+slices                    # slices (section 3.3)
+strings                   # strings (section 3.3)
+cmd/cgo/internal/test     # cgo (section 3.3)

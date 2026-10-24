@@ -1,0 +1,8 @@
+name	file	sha256	license	verification
+go	LICENSE	911f8f5782931320f5b8d1160a76365b83aea6447ee6c04fa6d5591467db9dad	BSD-3-Clause	sha256 checked
+go	PATENTS	96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc	additional patent grant (Google)	sha256 checked
+fyne	LICENSE	68a1eafb90581708e62e1d269e7f6e92e6b0b5cdae93f45ede832d42912c7014	BSD-3-Clause	sha256 checked
+tac-language	LICENSE	0e48e05f9d7bacb9d7dda010908a5db6262e45ab39a53aad7d702c57d3625057	MIT	sha256 checked
+rust	LICENSE-MIT	b71bd43a069ca0641a9ecfe585ca7b3c53b5cc1608f8b68321168698e28b5ea1	MIT	sha256 checked
+rust	LICENSE-APACHE	62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a	Apache-2.0	sha256 checked
+rust	COPYRIGHT	172020dbfd5b53a226dfde77616190a48dcff519b0bc0e6deb91a8450782c4af	summary: MIT OR Apache-2.0	sha256 checked

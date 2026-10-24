@@ -1,0 +1,6 @@
+targets: 47 (dist list: 47); compiled: 47; linked: 42; executed: 1 (host darwin/arm64, execution real)
+android/386	external linking required: android/386 requires external (cgo) linking, but cgo is not enabled
+android/amd64	external linking required: android/amd64 requires external (cgo) linking, but cgo is not enabled
+android/arm	external linking required: android/arm requires external (cgo) linking, but cgo is not enabled
+ios/amd64	external linking required: default PIE binary requires external (cgo) linking, but cgo is not enabled
+ios/arm64	external linking required: ios/arm64 requires external (cgo) linking, but cgo is not enabled

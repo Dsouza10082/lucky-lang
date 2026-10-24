@@ -1,0 +1,9 @@
+stage	status	seconds	reason
+fetch	pass	19	
+go-build	pass	66	
+go-test	pass	442	
+targets	pass	166	
+fyne-build	pass	44	
+fyne-test	pass	71	
+tac	pass	5	
+gc-inventory	pass	7	

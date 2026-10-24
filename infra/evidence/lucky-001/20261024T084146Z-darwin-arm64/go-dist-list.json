@@ -1,0 +1,284 @@
+[
+	{
+		"GOOS": "aix",
+		"GOARCH": "ppc64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "android",
+		"GOARCH": "386",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "android",
+		"GOARCH": "amd64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "android",
+		"GOARCH": "arm",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "android",
+		"GOARCH": "arm64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "darwin",
+		"GOARCH": "amd64",
+		"CgoSupported": true,
+		"FirstClass": true
+	},
+	{
+		"GOOS": "darwin",
+		"GOARCH": "arm64",
+		"CgoSupported": true,
+		"FirstClass": true
+	},
+	{
+		"GOOS": "dragonfly",
+		"GOARCH": "amd64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "freebsd",
+		"GOARCH": "386",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "freebsd",
+		"GOARCH": "amd64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "freebsd",
+		"GOARCH": "arm",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "freebsd",
+		"GOARCH": "arm64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "illumos",
+		"GOARCH": "amd64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "ios",
+		"GOARCH": "amd64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "ios",
+		"GOARCH": "arm64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "js",
+		"GOARCH": "wasm",
+		"CgoSupported": false,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "386",
+		"CgoSupported": true,
+		"FirstClass": true
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "amd64",
+		"CgoSupported": true,
+		"FirstClass": true
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "arm",
+		"CgoSupported": true,
+		"FirstClass": true
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "arm64",
+		"CgoSupported": true,
+		"FirstClass": true
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "loong64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "mips",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "mips64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "mips64le",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "mipsle",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "ppc64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "ppc64le",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "riscv64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "linux",
+		"GOARCH": "s390x",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "netbsd",
+		"GOARCH": "386",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "netbsd",
+		"GOARCH": "amd64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "netbsd",
+		"GOARCH": "arm",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "netbsd",
+		"GOARCH": "arm64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "openbsd",
+		"GOARCH": "386",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "openbsd",
+		"GOARCH": "amd64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "openbsd",
+		"GOARCH": "arm",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "openbsd",
+		"GOARCH": "arm64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "openbsd",
+		"GOARCH": "ppc64",
+		"CgoSupported": false,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "openbsd",
+		"GOARCH": "riscv64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "plan9",
+		"GOARCH": "386",
+		"CgoSupported": false,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "plan9",
+		"GOARCH": "amd64",
+		"CgoSupported": false,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "plan9",
+		"GOARCH": "arm",
+		"CgoSupported": false,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "solaris",
+		"GOARCH": "amd64",
+		"CgoSupported": true,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "wasip1",
+		"GOARCH": "wasm",
+		"CgoSupported": false,
+		"FirstClass": false
+	},
+	{
+		"GOOS": "windows",
+		"GOARCH": "386",
+		"CgoSupported": true,
+		"FirstClass": true
+	},
+	{
+		"GOOS": "windows",
+		"GOARCH": "amd64",
+		"CgoSupported": true,
+		"FirstClass": true
+	},
+	{
+		"GOOS": "windows",
+		"GOARCH": "arm64",
+		"CgoSupported": true,
+		"FirstClass": false
+	}
+]

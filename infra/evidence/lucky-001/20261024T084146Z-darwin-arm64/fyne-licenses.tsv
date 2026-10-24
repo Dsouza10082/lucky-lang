@@ -1,0 +1,36 @@
+module	file	sha256	first_line
+fyne.io/fyne/v2 (main)	LICENSE	68a1eafb90581708e62e1d269e7f6e92e6b0b5cdae93f45ede832d42912c7014	BSD 3-Clause License
+fyne.io/systray@v1.12.3-0.20260810170012-af4e8e793ec4	LICENSE	a106bc9f4d5d7d91d5173e86d0864fcf061c33a30cc237710b8f4a05cf127021	Apache License
+github.com/BurntSushi/toml@v1.6.0	COPYING	d21cb1c60785d6d3a84a7059323ccafc45c645b1bbda281c76a62d66ad2d7dc3	The MIT License (MIT)
+github.com/FyshOS/fancyfs@v0.0.1	LICENSE	6df86a72d288d232476070e4534f35fcec1dd830ad303d76c7f577e271a369d2	Copyright (C) 2025 FyshOS developers (see AUTHORS)
+github.com/anthonynsimon/bild@v0.14.0	LICENSE	637516cf71f2b3eda480c6cb39ee62297d8748acc95d8b4c63200d04e18793ea	MIT License
+github.com/clipperhouse/uax29/v2@v2.2.0	LICENSE	07e9e3daaccc707c9b7d535ed1405a65d37919fdd42197fe55e68820e974688c	MIT License
+github.com/fsnotify/fsnotify@v1.9.0	LICENSE	2dfbe6d2b5eb18b55148f3805d88648a09e0d17e38428123259afb08c8996e37	Copyright © 2012 The Go Authors. All rights reserved.
+github.com/fyne-io/gl-js@v0.2.1-0.20260315212741-029c47fd27e8	LICENSE	2d36597f7117c38b006835ae7f537487207d8ec407aa9d9980794b2030cbc067	Copyright (c) 2009 The Go Authors. All rights reserved.
+github.com/fyne-io/glfw-js@v0.4.0	LICENSE	2c4f9672fedf96bcac9ae5c1dd6ae5c3981826cc7c8d649f53a9b2c46af81636	MIT License
+github.com/fyne-io/image@v0.1.1	LICENSE	b9c31d8f1a43d7260789099ef59cc17a8b72aa3fccd1479bd516ec1b924637c3	BSD 3-Clause License
+github.com/fyne-io/oksvg@v0.2.1-0.20260918172519-a9af55fa95d9	LICENSE	cda28abc46a25d34ad876ec119ad3c29edbb8634d5fef46ccf2e1d63acd9ca34	BSD 3-Clause License
+github.com/go-gl/gl@v0.0.0-20260331235117-4566fea9a276	LICENSE	035b8c4d5796e3465c668aa0d6df233f644a7aecdeeb9016dcec1b2875f70c6b	The MIT License (MIT)
+github.com/go-gl/glfw/v3.4/glfw@v0.1.0-pre.2	LICENSE	72f474049924563f43e5a5cc8e7e228a4fc8eb58e3dd7383bd3552c0725f566c	Copyright (c) 2012 The glfw3-go Authors. All rights reserved.
+github.com/go-text/render@v0.2.1	LICENSE	6b1bf94c77d7faa0ce94f8745595bfaf4c404f8b3873f5c2ce55ca15f8e44eca	This project is provided under the terms of the UNLICENSE or
+github.com/go-text/typesetting@v0.3.5	LICENSE	6b1bf94c77d7faa0ce94f8745595bfaf4c404f8b3873f5c2ce55ca15f8e44eca	This project is provided under the terms of the UNLICENSE or
+github.com/godbus/dbus/v5@v5.2.2	LICENSE	e4646a82a976369d7ae8f6ed5c11d35dc0af18433a8ccc24c85b459ad8b95128	Copyright (c) 2013, Georg Reinke (<guelfey at gmail dot com>), Google
+github.com/hack-pad/go-indexeddb@v0.3.2	LICENSE	c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4	Apache License
+github.com/hack-pad/safejs@v0.1.0	LICENSE	c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4	Apache License
+github.com/jeandeaual/go-locale@v0.0.0-20250612000132-0ef82f21eade	LICENSE	f5a169b17b7b5bc97a3909f190089256dc62adb86eefc65454b0fdca37861c20	MIT License
+github.com/jsummers/gobmp@v0.0.0-20230614200233-a9de23ed2e25	COPYING.txt	027529c1f33b6ef9280c5b9569e120734dbbee0e5e37436fb9a1bc7a0153b0ae	Copyright (c) 2012-2015 Jason Summers
+github.com/mattn/go-runewidth@v0.0.24	LICENSE	88a2379b3ca34bf5c57127aff9dcb802bbb60ece0805cdbda65b3bd115f971d9	The MIT License (MIT)
+github.com/nfnt/resize@v0.0.0-20180221191011-83c6a9932646	LICENSE	7b850692b15c71706bc6906b51d6375c1404c2d26233078335b6aaa7def8b3f4	Copyright (c) 2012, Jan Schlicht <jan.schlicht@gmail.com>
+github.com/nicksnyder/go-i18n/v2@v2.5.1	LICENSE	8fb3aead091abd1579670cd4d805c7923b66ee97b771148f4ef928a65c259328	Copyright (c) 2014 Nick Snyder https://github.com/nicksnyder
+github.com/rymdport/portal@v0.4.2	LICENSE	c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4	Apache License
+github.com/srwiley/oksvg@v0.0.0-20221011165216-be6e8873101c	LICENSE	cda28abc46a25d34ad876ec119ad3c29edbb8634d5fef46ccf2e1d63acd9ca34	BSD 3-Clause License
+github.com/srwiley/rasterx@v0.0.0-20220730225603-2ab79fcdd4ef	LICENSE	cda28abc46a25d34ad876ec119ad3c29edbb8634d5fef46ccf2e1d63acd9ca34	BSD 3-Clause License
+github.com/yuin/goldmark@v1.8.2	LICENSE	c1d6f653c38c80294dc7994647ba0dcc508ce64a86996303c804efa2f7982bff	MIT License
+golang.org/x/image@v0.24.0	LICENSE	911f8f5782931320f5b8d1160a76365b83aea6447ee6c04fa6d5591467db9dad	Copyright 2009 The Go Authors.
+golang.org/x/image@v0.24.0	PATENTS	96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc	Additional IP Rights Grant (Patents)
+golang.org/x/net@v0.35.0	LICENSE	911f8f5782931320f5b8d1160a76365b83aea6447ee6c04fa6d5591467db9dad	Copyright 2009 The Go Authors.
+golang.org/x/net@v0.35.0	PATENTS	96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc	Additional IP Rights Grant (Patents)
+golang.org/x/sys@v0.30.0	LICENSE	911f8f5782931320f5b8d1160a76365b83aea6447ee6c04fa6d5591467db9dad	Copyright 2009 The Go Authors.
+golang.org/x/sys@v0.30.0	PATENTS	96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc	Additional IP Rights Grant (Patents)
+golang.org/x/text@v0.22.0	LICENSE	911f8f5782931320f5b8d1160a76365b83aea6447ee6c04fa6d5591467db9dad	Copyright 2009 The Go Authors.
+golang.org/x/text@v0.22.0	PATENTS	96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc	Additional IP Rights Grant (Patents)

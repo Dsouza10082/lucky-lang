@@ -1,0 +1,38 @@
+same: procedure (scripts and locks)
+same: status per stage
+same: upstream commits
+same: upstream licenses
+same: licenses of modules vendored into Go
+same: bootstrap
+same: C compiler
+same: artifact hashes
+same: Go tests per package
+same: dist suite
+same: target matrix
+same: Fyne modules
+same: Fyne module licenses
+same: Fyne packages with cgo
+same: Fyne tests per package
+same: TAC versions
+same: TAC corpus
+same: TAC tests per package
+same: TAC corpus per case
+same: collector components
+same: collector uses (std)
+same: collector uses (fyne)
+same: collector uses (tac)
+same: collector inventory
+
+declared environment (not compared):
+    clean_run                  yes | yes
+    workspace_commit           03b4dffacfaee35f33555efec3cecbf42bb15ffc | 03b4dffacfaee35f33555efec3cecbf42bb15ffc
+    workspace_dirty            yes | yes
+    spec_sha256                cd97e96fae5fdbfcfb7294430958827acfa8f646eebb7fe1e2763d81d58b678e | cd97e96fae5fdbfcfb7294430958827acfa8f646eebb7fe1e2763d81d58b678e
+    os                         macOS 26.5.2 (25F84) | macOS 26.5.2 (25F84)
+    xcode_clt                  26.6.0.0.1781586589 | 26.6.0.0.1781586589
+    sdk_macos                  26.5 | 26.5
+    cpu                        Apple M3 Pro, 12 logical cores | Apple M3 Pro, 12 logical cores
+    bash                       3.2.57(1)-release | 3.2.57(1)-release
+    git                        git version 2.48.1 | git version 2.48.1
+    go_on_path                 /opt/homebrew/bin/go go1.27.0 | /opt/homebrew/bin/go go1.27.0
+    free_space_start_mb        14150 | 14318

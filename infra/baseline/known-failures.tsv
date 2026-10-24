@@ -1,0 +1,9 @@
+# Known pre-existing failures of the upstream baseline, kept apart from failures
+# introduced by the project (SPEC 15.4). Read by tools/testsum.
+#
+# Columns (tab-separated): scope (go|fyne|tac)  package  test (or *)  reason and reference
+# A failing TAC corpus case needs two lines: the parent test
+# (TestConformance_LayaCorpus), for the package result, and the case
+# (TestConformance_LayaCorpus/<case>), for the per-case result.
+# A panic, a timeout or a test without a result never counts as known.
+# No failures are listed for this baseline.

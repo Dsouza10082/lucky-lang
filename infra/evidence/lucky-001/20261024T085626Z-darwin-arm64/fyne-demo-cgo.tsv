@@ -1,0 +1,10 @@
+package	module	cgo	c	objc	cxx	ldflags
+runtime/cgo	std	1	8	0	0	
+fyne.io/fyne/v2/internal/app	fyne.io/fyne/v2 (main)	1	0	1	0	-framework Foundation
+fyne.io/fyne/v2/internal/widget	fyne.io/fyne/v2 (main)	1	0	1	0	-framework AppKit
+github.com/jeandeaual/go-locale	github.com/jeandeaual/go-locale@v0.0.0-20250612000132-0ef82f21eade	1	0	1	0	-framework Foundation
+github.com/go-gl/gl/v2.1/gl	github.com/go-gl/gl@v0.0.0-20260331235117-4566fea9a276	4	0	0	0	-framework OpenGL -framework OpenGL
+fyne.io/systray	fyne.io/systray@v1.12.3-0.20260810170012-af4e8e793ec4	1	0	1	0	-framework Cocoa
+github.com/go-gl/glfw/v3.4/glfw	github.com/go-gl/glfw/v3.4/glfw@v0.1.0-pre.2	13	4	0	0	-framework Cocoa -framework IOKit -framework CoreVideo -framework OpenGL
+fyne.io/fyne/v2/internal/driver/glfw	fyne.io/fyne/v2 (main)	3	0	3	0	-framework Foundation -framework AppKit -framework Foundation -framework AppKit
+fyne.io/fyne/v2/app	fyne.io/fyne/v2 (main)	3	0	2	0	-framework Foundation -framework Foundation -framework Foundation -framework UserNotifications

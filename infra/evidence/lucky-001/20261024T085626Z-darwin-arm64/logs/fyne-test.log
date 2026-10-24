@@ -1,0 +1,6 @@
+go test -json -count=1 -tags no_glfw,ci,migrated_fynedo ./... (LANG=en_US.UTF-8)
+all modules verified
+modules present in the cache and verified: 50
+  20 no-tests
+   1 partial
+  45 pass

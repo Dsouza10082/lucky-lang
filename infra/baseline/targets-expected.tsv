@@ -1,0 +1,9 @@
+# Expected failures in targets.sh, which builds without cgo (CGO_ENABLED=0).
+# A failure not listed here fails the targets stage.
+#
+# Columns (tab-separated): target  step (compile|link)  error message excerpt  external toolchain needed
+android/386	link	requires external (cgo) linking	cgo + Android NDK
+android/amd64	link	requires external (cgo) linking	cgo + Android NDK
+android/arm	link	requires external (cgo) linking	cgo + Android NDK
+ios/amd64	link	requires external (cgo) linking	cgo + Xcode (iOS Simulator SDK)
+ios/arm64	link	requires external (cgo) linking	cgo + Xcode (iOS SDK)

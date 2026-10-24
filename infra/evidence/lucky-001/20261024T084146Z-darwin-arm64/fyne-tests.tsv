@@ -1,0 +1,66 @@
+fyne.io/fyne/v2	pass	43	0	0		0
+fyne.io/fyne/v2/app	pass	30	0	0		0
+fyne.io/fyne/v2/canvas	pass	80	0	0		0
+fyne.io/fyne/v2/cmd/fyne	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/cmd/fyne/commands	pass	1	0	0		0
+fyne.io/fyne/v2/cmd/fyne/internal/commands	pass	41	0	0		0
+fyne.io/fyne/v2/cmd/fyne/internal/mobile	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/cmd/fyne/internal/mobile/binres	partial	3	0	3	3 skipped, 0 subtests skipped; first reason: binres_test.go:381: ANDROID_HOME env var not set	0
+fyne.io/fyne/v2/cmd/fyne/internal/templates	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/cmd/fyne/internal/util	pass	2	0	0		0
+fyne.io/fyne/v2/cmd/fyne_demo	pass	1	0	0		0
+fyne.io/fyne/v2/cmd/fyne_demo/data	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/cmd/fyne_demo/tutorials	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/cmd/fyne_settings	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/cmd/fyne_settings/data	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/cmd/fyne_settings/settings	pass	3	0	0		0
+fyne.io/fyne/v2/cmd/hello	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/container	pass	95	0	0		0
+fyne.io/fyne/v2/data/binding	pass	82	0	0		0
+fyne.io/fyne/v2/data/validation	pass	3	0	0		0
+fyne.io/fyne/v2/dialog	pass	86	0	0		0
+fyne.io/fyne/v2/driver	pass	1	0	0		0
+fyne.io/fyne/v2/driver/desktop	pass	3	0	0		0
+fyne.io/fyne/v2/driver/embedded	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/driver/mobile	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/driver/software	pass	10	0	0		0
+fyne.io/fyne/v2/internal	pass	32	0	0		0
+fyne.io/fyne/v2/internal/animation	no-tests	0	0	0	[no tests to run]	0
+fyne.io/fyne/v2/internal/app	pass	6	0	0		0
+fyne.io/fyne/v2/internal/async	pass	7	0	0		0
+fyne.io/fyne/v2/internal/build	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/internal/cache	pass	9	0	0		0
+fyne.io/fyne/v2/internal/color	pass	1	0	0		0
+fyne.io/fyne/v2/internal/driver	pass	7	0	0		0
+fyne.io/fyne/v2/internal/driver/common	pass	5	0	0		0
+fyne.io/fyne/v2/internal/driver/embedded	pass	1	0	0		0
+fyne.io/fyne/v2/internal/driver/glfw	pass	13	0	0		0
+fyne.io/fyne/v2/internal/driver/mobile	pass	23	0	0		0
+fyne.io/fyne/v2/internal/driver/mobile/app	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/internal/driver/mobile/event/key	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/internal/driver/mobile/event/lifecycle	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/internal/driver/mobile/event/paint	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/internal/driver/mobile/event/size	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/internal/driver/mobile/event/touch	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/internal/driver/mobile/gl	pass	5	0	0		0
+fyne.io/fyne/v2/internal/driver/mobile/mobileinit	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/internal/metadata	pass	3	0	0		0
+fyne.io/fyne/v2/internal/painter	pass	29	0	0		0
+fyne.io/fyne/v2/internal/painter/gl	pass	12	0	0		0
+fyne.io/fyne/v2/internal/painter/software	pass	42	0	0		0
+fyne.io/fyne/v2/internal/repository	pass	32	0	0		0
+fyne.io/fyne/v2/internal/repository/mime	pass	1	0	0		0
+fyne.io/fyne/v2/internal/scale	no-tests	0	0	0	[no test files]	0
+fyne.io/fyne/v2/internal/scheduler	pass	5	0	0		0
+fyne.io/fyne/v2/internal/svg	pass	6	0	0		0
+fyne.io/fyne/v2/internal/test	pass	3	0	0		0
+fyne.io/fyne/v2/internal/theme	pass	1	0	0		0
+fyne.io/fyne/v2/internal/widget	pass	52	0	0		0
+fyne.io/fyne/v2/lang	pass	11	0	0		0
+fyne.io/fyne/v2/layout	pass	60	0	0		0
+fyne.io/fyne/v2/storage	pass	27	0	0		0
+fyne.io/fyne/v2/storage/repository	pass	8	0	0		0
+fyne.io/fyne/v2/test	pass	24	0	0		0
+fyne.io/fyne/v2/theme	pass	111	0	0		0
+fyne.io/fyne/v2/tools/playground	pass	1	0	0		0
+fyne.io/fyne/v2/widget	pass	668	0	0		0

@@ -1,0 +1,13 @@
+github.com/TacFlow/tac-language	partial	46	0	2	2 skipped, 2 subtests skipped; first reason: compat_test.go:97: set TAC_WRITE_COMPAT_BASELINE=1 to write the frozen v0.4.0 baseline	2
+github.com/TacFlow/tac-language/ast	no-tests	0	0	0	[no test files]	0
+github.com/TacFlow/tac-language/cmd/debug	no-tests	0	0	0	[no test files]	0
+github.com/TacFlow/tac-language/cmd/tac	pass	8	0	0		0
+github.com/TacFlow/tac-language/cmd/tac-parser	no-tests	0	0	0	[no test files]	0
+github.com/TacFlow/tac-language/compiler	pass	1	0	0		0
+github.com/TacFlow/tac-language/formatter	pass	4	0	0		0
+github.com/TacFlow/tac-language/laya	pass	3	0	0		0
+github.com/TacFlow/tac-language/lexer	pass	8	0	0		0
+github.com/TacFlow/tac-language/manifest	pass	2	0	0		0
+github.com/TacFlow/tac-language/parser	pass	18	0	0		0
+github.com/TacFlow/tac-language/semantic	pass	18	0	0		0
+github.com/TacFlow/tac-language/types	pass	4	0	0		0

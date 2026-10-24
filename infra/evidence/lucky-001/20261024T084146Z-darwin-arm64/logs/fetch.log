@@ -1,0 +1,5 @@
+go: go1.27.3 = 2aae1000ea1d4b28923b96db28acf4e3b99d6aff -> /Users/diogosouza/Desktop/LUCKY-LANG/lucky-lang/.work/src/go
+fyne: v2.8.2 = 77c1fa8e0a50b6cbd04cd6c4454289e55a307a2d -> /Users/diogosouza/Desktop/LUCKY-LANG/lucky-lang/.work/src/fyne
+tac-language: v0.5.0 = c4cd152f9838e65d3ae4b893de232c9255911fbb -> /Users/diogosouza/Desktop/LUCKY-LANG/lucky-lang/.work/src/tac-language
+rust: 1.99.1 = 58cf8f9c35b355199727627d07ae34a4e2846d67 (reference, not cloned)
+modules vendored into Go: 14

@@ -1,0 +1,14 @@
+versions:
+LanguageVersion	0.5
+CompilerVersion	0.5.0
+IRVersion	1.2
+LayaLanguage	0.5
+conformance/laya corpus: 33 cases; 67 files hashed
+packages:
+   3 no-tests
+   1 partial
+   9 pass
+corpus cases:
+  32 pass
+   1 skip
+skipped: 30_lateral_gate: conformance_test.go:131: dialect-only case

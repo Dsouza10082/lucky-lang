@@ -1,0 +1,36 @@
+go: downloading github.com/fsnotify/fsnotify v1.9.0
+go: downloading github.com/FyshOS/fancyfs v0.0.1
+go: downloading github.com/go-text/typesetting v0.3.5
+go: downloading github.com/mattn/go-runewidth v0.0.24
+go: downloading github.com/yuin/goldmark v1.8.2
+go: downloading golang.org/x/image v0.24.0
+go: downloading github.com/fyne-io/oksvg v0.2.1-0.20260918172519-a9af55fa95d9
+go: downloading github.com/srwiley/rasterx v0.0.0-20220730225603-2ab79fcdd4ef
+go: downloading github.com/BurntSushi/toml v1.6.0
+go: downloading github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
+go: downloading github.com/jeandeaual/go-locale v0.0.0-20250612000132-0ef82f21eade
+go: downloading github.com/nicksnyder/go-i18n/v2 v2.5.1
+go: downloading golang.org/x/text v0.22.0
+go: downloading github.com/go-text/render v0.2.1
+go: downloading fyne.io/systray v1.12.3-0.20260810170012-af4e8e793ec4
+go: downloading github.com/fyne-io/image v0.1.1
+go: downloading github.com/go-gl/glfw/v3.4/glfw v0.1.0-pre.2
+go: downloading github.com/clipperhouse/uax29/v2 v2.2.0
+go: downloading golang.org/x/sys v0.30.0
+go: downloading golang.org/x/net v0.35.0
+go: downloading github.com/go-gl/gl v0.0.0-20260331235117-4566fea9a276
+go: downloading github.com/godbus/dbus/v5 v5.2.2
+go: downloading github.com/jsummers/gobmp v0.0.0-20230614200233-a9de23ed2e25
+go: downloading github.com/anthonynsimon/bild v0.14.0
+go: downloading github.com/srwiley/oksvg v0.0.0-20221011165216-be6e8873101c
+# fyne.io/fyne/v2/cmd/fyne_demo
+ld: warning: ignoring duplicate libraries: '-lobjc'
+go: downloading github.com/rymdport/portal v0.4.2
+go: downloading github.com/fyne-io/gl-js v0.2.1-0.20260315212741-029c47fd27e8
+go: downloading github.com/hack-pad/go-indexeddb v0.3.2
+go: downloading github.com/fyne-io/glfw-js v0.4.0
+go: downloading github.com/hack-pad/safejs v0.1.0
+all modules verified
+modules present in the cache and verified: 30
+modules in the graph: 69; packages with cgo: 9
+fyne_demo built; not run: interactive GUI application (functional check is left to LUCKY-008)

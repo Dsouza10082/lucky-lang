@@ -1,0 +1,63 @@
+# Negative test of compare.sh (LUCKY-001)
+# Copies of B in a temporary directory. B-altered: first hash in artifacts.sha256 changed, runtime status changed from partial to fail in go-tests.tsv, tac-versions.tsv removed. B-skipped: go-test marked as skip in status.tsv.
+
+## compare.sh A B-altered
+same: procedure (scripts and locks)
+same: status per stage
+same: upstream commits
+same: upstream licenses
+same: licenses of modules vendored into Go
+same: bootstrap
+same: C compiler
+DIFFERENT: artifact hashes
+    @@ -1,4 +1,4 @@
+    -321d3c71ff0eac2a54af5d43aabc327652b13abe3f0e6f5da531133b6b307d5c  go/bin/go
+    +021d3c71ff0eac2a54af5d43aabc327652b13abe3f0e6f5da531133b6b307d5c  go/bin/go
+     49f6b08b2a6f0ea1746a6ab647f73af598e14371250f8ec61ce232b17e83b7aa  go/bin/gofmt
+     f10e627dc3609a07b79b757c4f6ebafaf6ebf37afeb3eefb2263265cb2fa877b  go/pkg/tool/darwin_arm64/asm
+     fa562446f41b528a4e5cd11e4f74d9543be3392e6e6efbfc7018d998669f5760  go/pkg/tool/darwin_arm64/cgo
+DIFFERENT: Go tests per package
+    @@ -67,7 +67,7 @@
+     internal/runtime/wasitest	not-run	0	0	2	0
+     maps	pass	24	0	0	0
+     reflect	partial	221	0	3	0
+    -runtime	partial	498	0	58	30
+    +runtime	fail	498	0	58	30
+     slices	pass	106	0	0	0
+     strings	pass	128	0	0	0
+     sync	pass	53	0	0	0
+same: dist suite
+same: target matrix
+same: Fyne modules
+same: Fyne module licenses
+same: Fyne packages with cgo
+same: Fyne tests per package
+MISSING: TAC versions (tac-versions.tsv)
+same: TAC corpus
+same: TAC tests per package
+same: TAC corpus per case
+same: collector components
+same: collector uses (std)
+same: collector uses (fyne)
+same: collector uses (tac)
+same: collector inventory
+
+declared environment (not compared):
+    clean_run                  yes | yes
+    workspace_commit           03b4dffacfaee35f33555efec3cecbf42bb15ffc | 03b4dffacfaee35f33555efec3cecbf42bb15ffc
+    workspace_dirty            yes | yes
+    spec_sha256                cd97e96fae5fdbfcfb7294430958827acfa8f646eebb7fe1e2763d81d58b678e | cd97e96fae5fdbfcfb7294430958827acfa8f646eebb7fe1e2763d81d58b678e
+    os                         macOS 26.5.2 (25F84) | macOS 26.5.2 (25F84)
+    xcode_clt                  26.6.0.0.1781586589 | 26.6.0.0.1781586589
+    sdk_macos                  26.5 | 26.5
+    cpu                        Apple M3 Pro, 12 logical cores | Apple M3 Pro, 12 logical cores
+    bash                       3.2.57(1)-release | 3.2.57(1)-release
+    git                        git version 2.48.1 | git version 2.48.1
+    go_on_path                 /opt/homebrew/bin/go go1.27.0 | /opt/homebrew/bin/go go1.27.0
+    free_space_start_mb        14150 | 14318
+exit: 1
+
+## compare.sh A B-skipped
+not comparable: B-skipped has stages that did not pass
+    go-test: skip 
+exit: 2

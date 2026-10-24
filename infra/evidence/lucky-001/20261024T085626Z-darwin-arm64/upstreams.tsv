@@ -1,0 +1,5 @@
+name	role	source	version	commit	verification	local_patches
+go	fork-base	https://github.com/golang/go	go1.27.3	2aae1000ea1d4b28923b96db28acf4e3b99d6aff	clone+rev-parse	none
+fyne	port-base	https://github.com/fyne-io/fyne	v2.8.2	77c1fa8e0a50b6cbd04cd6c4454289e55a307a2d	clone+rev-parse	none
+tac-language	dsl-base	https://github.com/TacFlow/tac-language	v0.5.0	c4cd152f9838e65d3ae4b893de232c9255911fbb	clone+rev-parse	none
+rust	reference	https://github.com/rust-lang/rust	1.99.1	58cf8f9c35b355199727627d07ae34a4e2846d67	ls-remote	-

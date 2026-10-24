@@ -1,0 +1,5 @@
+cc: clang
+cc_path: /usr/bin/clang
+cc_version: Apple clang version 21.0.0 (clang-2100.1.1.101)
+cgo_enabled_default: 1
+sdk_macos: 26.5

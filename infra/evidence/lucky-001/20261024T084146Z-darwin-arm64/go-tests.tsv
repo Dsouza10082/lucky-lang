@@ -1,0 +1,75 @@
+cmd/cgo/internal/test	partial	104	0	7	7 skipped, 0 subtests skipped; first reason: test.go:1375: skipped, see golang.org/issue/5885	0
+cmd/compile	pass	1	0	0		0
+cmd/compile/internal/abi	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/abt	pass	9	0	0		0
+cmd/compile/internal/amd64	partial	9	0	1	1 skipped, 0 subtests skipped; first reason: versions_test.go:35: amd64-only test	0
+cmd/compile/internal/arm	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/arm64	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/base	pass	10	0	0		0
+cmd/compile/internal/bitvec	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/bloop	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/compare	pass	1	0	0		0
+cmd/compile/internal/coverage	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/deadlocals	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/devirtualize	pass	2	0	0		0
+cmd/compile/internal/dwarfgen	pass	3	0	0		0
+cmd/compile/internal/escape	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/gc	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/importer	partial	15	0	1	1 skipped, 0 subtests skipped; first reason: gcimporter_test.go:235: the imports can be expensive, and this test is especially slow when the build cache is empty	0
+cmd/compile/internal/inline	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/inline/inlheur	pass	10	0	0		0
+cmd/compile/internal/inline/interleaved	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/ir	pass	4	0	0		0
+cmd/compile/internal/liveness	pass	8	0	0		0
+cmd/compile/internal/logopt	pass	2	0	0		0
+cmd/compile/internal/loong64	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/loopvar	pass	8	0	0		0
+cmd/compile/internal/midway	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/mips	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/mips64	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/noder	pass	2	0	0		0
+cmd/compile/internal/objw	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/pgoir	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/pkginit	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/ppc64	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/rangefunc	pass	46	0	0		0
+cmd/compile/internal/reflectdata	no-tests	0	0	0	[no tests to run]	0
+cmd/compile/internal/riscv64	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/rttype	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/s390x	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/slice	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/ssa	partial	128	0	6	6 skipped, 0 subtests skipped; first reason: magic_test.go:20: slow test; skipping	0
+cmd/compile/internal/ssagen	pass	2	0	0		0
+cmd/compile/internal/staticdata	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/staticinit	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/syntax	partial	23	0	4	4 skipped, 0 subtests skipped; first reason: dumper_test.go:13: skipping test in short mode	0
+cmd/compile/internal/test	partial	230	0	5	5 skipped, 1 subtests skipped; first reason: clobberdead_test.go:34: skip in short mode	1
+cmd/compile/internal/typebits	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/typecheck	pass	1	0	0		0
+cmd/compile/internal/types	pass	4	0	0		0
+cmd/compile/internal/types2	partial	141	0	3	3 skipped, 1 subtests skipped; first reason: TestFixedbugs/issue78346.go: check_test.go:455: all files skipped by build tags	1
+cmd/compile/internal/walk	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/wasm	no-tests	0	0	0	[no test files]	0
+cmd/compile/internal/x86	no-tests	0	0	0	[no test files]	0
+cmd/internal/testdir	partial	2	0	0	0 skipped, 61 subtests skipped; first reason: Test/checkbce.go: testdir_test.go:523: //go:build amd64 && !gcflags_noopt	61
+cmd/link	partial	32	0	9	9 skipped, 1 subtests skipped; first reason: dwarf_test.go:274: skipping in short mode	1
+internal/runtime/atomic	partial	15	0	1	1 skipped, 0 subtests skipped; first reason: atomic_test.go:97: test only runs on 32-bit systems	0
+internal/runtime/cgobench	no-tests	0	0	0	[no tests to run]	0
+internal/runtime/cgroup	pass	11	0	0		0
+internal/runtime/exithook	no-tests	0	0	0	[no test files]	0
+internal/runtime/gc	no-tests	0	0	0	[no test files]	0
+internal/runtime/gc/internal/gen	no-tests	0	0	0	[no test files]	0
+internal/runtime/gc/scan	pass	2	0	0		0
+internal/runtime/maps	pass	20	0	0		0
+internal/runtime/math	pass	1	0	0		0
+internal/runtime/pprof/label	no-tests	0	0	0	[no test files]	0
+internal/runtime/sys	pass	4	0	0		0
+internal/runtime/wasitest	not-run	0	0	2	nonblock_test.go:37:	0
+maps	pass	24	0	0		0
+reflect	partial	221	0	3	3 skipped, 0 subtests skipped; first reason: all_test.go:3499: skipping malloc count in short mode	0
+runtime	partial	498	0	58	58 skipped, 30 subtests skipped; first reason: checkptr_test.go:18: skipping test in -short mode	30
+slices	pass	106	0	0		0
+strings	pass	128	0	0		0
+sync	pass	53	0	0		0
+unique	pass	9	0	0		0
+weak	partial	8	0	1	1 skipped, 0 subtests skipped; first reason: pointer_test.go:216: this is a stress test that takes seconds to run on its own	0

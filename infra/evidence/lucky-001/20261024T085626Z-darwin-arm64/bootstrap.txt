@@ -1,0 +1,5 @@
+version: go1.26.10
+source: golang.org/toolchain@v0.0.1-go1.26.10.darwin-arm64 (downloaded by the go command)
+verification: checksum database sum.golang.org
+go_sha256: 5742f0004c49c005313d88cd06df964b09cad6bcf2eac4506bdb90abc923b1f4
+ziphash: h1:SfEWw1me2He9ojf4S+M6xTnGOP6CosVO88yaBsEgjJ0=
